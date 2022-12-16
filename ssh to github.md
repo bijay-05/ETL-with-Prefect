@@ -36,3 +36,10 @@ $git remote rm upstream
 
 ## delete a git branch
 $git branch --delete branch_name
+
+### while using SSH to authenticate with github,
+### we should use ssh mode while cloning the remote repo in our local machine
+### in such a way, while we push code to remote repo, ssh takes care of everything
+
+### just use command $git push origin branch_name
+### although you have not set origin for the repo, ssh takes care of it

@@ -33,3 +33,6 @@ $git config --global --replace-all user.email "new email"
 # view all the remotes of local repo
 $git remote -v
 $git remote rm upstream
+
+## delete a git branch
+$git branch --delete branch_name

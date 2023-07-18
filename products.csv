@@ -1,0 +1,109 @@
+product_id,product_category,product_name,supplier_name
+10001,pet_supplies,dog soap,doggy all & co
+10002,pet_supplies,pedigree,doggy all & co
+10003,pet_supplies,dog shampoo,doggy all & co
+10004,pet_supplies,dog jacket,doggy all & co
+10005,pet_supplies,dog bone,doggy all & co
+10006,pet_supplies,dog collar,doggy all & co
+10007,pet_supplies,dog comb,doggy all & co
+10008,pet_supplies,dog mattress,doggy all & co
+10009,pet_supplies,kennel,doggy all & co
+10010,pet_supplies,dog ball,doggy all & co
+10011,pet_supplies,cat shampoo,pet all & supplies
+10012,pet_supplies,cat food,pet all & supplies
+10013,pet_supplies,play ball,pet all & supplies
+10014,pet_supplies,dog food,doggy all & co
+10015,pet_supplies,dog cleaner,doggy all & co
+10016,pet_supplies,dog groomer,doggy all & co
+10017,pet_supplies,dog powder,doggy all & co
+20001,child_care,baby soap,nicole suppliers
+20002,child_care,baby lotion,nicole suppliers
+20003,child_care,baby pacifier,nicole suppliers
+20004,child_care,diapers,nicole suppliers
+20005,child_care,baby diapers,nicole suppliers
+20006,child_care,baby shampoo,nicole suppliers
+20007,child_care,jonsons baby powder,nicole suppliers
+20008,child_care,baby strollers,for baby & co
+20009,child_care,baby balls,for baby & co
+20010,child_care,baby panda dolls,for baby & co
+20011,child_care,baby dino dolls,for baby & co
+20012,child_care,play cars,for baby & co
+20013,child_care,play train,for baby & co
+20014,child_care,play dolls,for baby & co
+20015,child_care,baby mattress,for baby & co
+20016,child_care,baby bottles,for baby & co
+20017,child_care,hanging bed,nicole suppliers
+20018,child_care,soft blanket,nicole suppliers
+30001,home_improvement,tools set,david equipments & tools
+30002,home_improvement,water hose,david equipments & tools
+30003,home_improvement,basin,david equipments & tools
+30004,home_improvement,rest seat,david equipments & tools
+30005,home_improvement,steel,david equipments & tools
+30006,home_improvement,grass cutter,david equipments & tools
+30007,home_improvement,iron cutter,david equipments & tools
+30008,home_improvement,screws,david equipments & tools
+30009,home_improvement,light holder,shaun lightings
+30010,home_improvement,table lamp,shaun lightings
+30011,home_improvement,color lights,shaun lightings
+30012,home_improvement,focus lights,shaun lightings
+30013,home_improvement,chimney,shaun lightings
+30014,home_improvement,flower pots,john accessories and co
+30015,home_improvement,paint brush,john accessories and co
+30016,home_improvement,small paint can,john accessories and co
+30017,home_improvement,large paint can,john accessories and co
+30018,home_improvement,kerosene can,john accessories and co
+30019,home_improvement,primar can,john accessories and co
+30020,home_improvement,paint roller,john accessories and co
+40001,stationery,novels,binny stationers house
+40002,stationery,story books,binny stationers house
+40003,stationery,drawing books,binny stationers house
+40004,stationery,sketch board,binny stationers house
+40005,stationery,chart papers,binny stationers house
+40006,stationery,newspapers,binny stationers house
+40007,stationery,magazines,binny stationers house
+40008,stationery,ball pens,binny stationers house
+40009,stationery,HB pencils,binny stationers house
+40010,stationery,2H pencils,binny stationers house
+40011,stationery,2B pencils,binny stationers house
+40012,stationery,pencil accessories,binny stationers house
+40013,stationery,color pencils,binny stationers house
+40014,stationery,color box,binny stationers house
+40015,stationery,science books,binny stationers house
+40016,stationery,latin books,binny stationers house
+40017,stationery,writing copies,binny stationers house
+40018,stationery,note books,binny stationers house
+40019,stationery,diary,binny stationers house
+40020,stationery,sticky notes,binny stationers house
+50001,food & beverages,long breads,deer food & co
+50002,food & beverages,spicy noodles,deer food & co
+50003,food & beverages,regular noodles,deer food & co
+50004,food & beverages,soup,deer food & co
+50005,food & beverages,smoking essentials,all refreshments supplier
+50006,food & beverages,corona beer,all refreshments supplier
+50007,food & beverages,tuborg beer,all refreshments supplier
+50008,food & beverages,snacks,deer food & co
+50009,food & beverages,dry fruits,deer food & co
+50010,food & beverages,sausages,deer food & co
+50011,food & beverages,red bull,all refreshments supplier
+50012,food & beverages,sting,all refreshments supplier
+50013,food & beverages,coke,all refreshments supplier
+50014,food & beverages,diet coke,all refreshments supplier
+50015,food & beverages,apple cider,all refreshments supplier
+50016,food & beverages,sprite,all refreshments supplier
+50017,food & beverages,nestle cold coffee,all refreshments supplier
+50018,food & beverages,ramen noodles,deer food & co
+50019,food & beverages,instant noodles,deer food & co
+50020,food & beverages,dark chocolates,deer food & co
+60001,liquors,ruslan vodka,all liquors dealers
+60002,liquors,highlander vodka,all liquors dealers
+60003,liquors,jack daniels,all liquors dealers
+60004,liquors,blue label premium,all liquors dealers
+60005,liquors,old monk small,all liquors dealers
+60006,liquors,old monk regular,all liquors dealers
+60007,liquors,khuks rum,all liquors dealers
+60008,liquors,white rum,all liquors dealers
+60009,liquors,golden oak,all liquors dealers
+60010,liquors,black oak,all liquors dealers
+60011,liquors,vat 69,all liquors dealers
+60012,liquors,black label,all liquors dealers
+60013,liquors,chivas,all liquors dealers
